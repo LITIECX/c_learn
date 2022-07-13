@@ -1,0 +1,2 @@
+/media/del_file
+/media/del_file1

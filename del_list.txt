@@ -1,0 +1,6 @@
+dir:/media/del_file
+dir:/media/del_file/lib
+  /media/del_file/lib/ltt.c
+dir:/media/del_file1
+dir:/media/del_file1/lib
+  /media/del_file1/my.c
